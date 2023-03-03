@@ -10,7 +10,7 @@ The point of this exercise is to demonstrate understanding of git remotes and gi
 ---
 
 1. Create a new repository locally on your machine.
-2. Create a new Github repository. Name it whatever you want. *NOTE: Was named "Whatever_You_Want" before being changed to Git_Remote_Basics.
+2. Create a new Github repository. Name it whatever you want. *NOTE: Was named "Whatever_You_Want" before being changed to Github_Basics for further clarity.
 3. Connect your local repo to the Github repo.
 4. Optional: rename the default branch from master to main.
 5. Make a new file called `favorites.txt`  Leave it empty. Make your first commit on the `main` branch.
